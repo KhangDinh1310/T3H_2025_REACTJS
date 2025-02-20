@@ -1,1 +1,2 @@
-"test1" 
+"Họ Tên: Đinh Chính Khang
+Định hướng 2025: Trở thành lập trình viên ReactJS chuyên nghiệp" 
