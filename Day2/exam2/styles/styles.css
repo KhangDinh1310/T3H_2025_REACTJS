@@ -1,0 +1,34 @@
+.header {
+    border: 1px solid black;
+    height: 480px;
+    width: 340px;
+    margin-left: 550px;
+}
+.box img {
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    margin: 20px 20px 20px 20px;
+    object-fit: cover;
+}
+.font {
+    font-size: 20px;      
+    font-weight: bold; 
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+.normalfont {
+    font-size: 20px;      
+    font-weight: normal; 
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.button {
+    margin-left: 20px;
+    margin-top: 15px;
+    background-color: green;
+    color:white;
+    padding: 8px 16px
+}
